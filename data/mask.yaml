@@ -4,11 +4,5 @@ val: images/train
 test: images/test
 
 nc: 2
-names: ['face', 'mask']
+names: ['mask', 'face']
 
-roboflow:
-  workspace: graduationproject-7xew3
-  project: mask-yro1u
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/graduationproject-7xew3/mask-yro1u/dataset/1

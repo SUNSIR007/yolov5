@@ -1,0 +1,8 @@
+path: /Users/ryuichi/Documents/GitHub/yolov5/datasets/sibao
+train: train/images
+val: val/images
+test:
+
+nc: 1
+names: ['违规占道']
+
